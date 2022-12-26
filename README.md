@@ -3,7 +3,7 @@
 ➤ React Native Developer at EWAX Capital  
 ➤ Email: Feyuk@proton.me  
 
-## Techs I'm working with at the moment
+## Techs I'm working with at the moment:
 
 - React Native
 - React.js
