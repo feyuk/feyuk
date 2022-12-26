@@ -5,8 +5,7 @@
 
 ## Techs I'm working with at the moment
 
-➤ React Native    
+➤ React Native
 ➤ React.js
 ➤ JavaScript
 ➤ Functional Programming
-
