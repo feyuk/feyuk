@@ -1,4 +1,4 @@
-# Hi, I'm Fernando Y. 👋
+# Hi, I'm Fernando Yukio 👋
 
 ➤ React Native Developer at EWAX Capital  
 ➤ Contact: Feyuk@proton.me  
